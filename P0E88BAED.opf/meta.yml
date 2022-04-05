@@ -1,0 +1,28 @@
+id: P0E88BAED
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA22314
+  instance_id: http://purl.bdrc.io/resource/IE22314
+  collection_id: http://purl.bdrc.io/resource/PR0ET010
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - རྟགས་རིག་རིགས་ལམ་གསལ་བྱེད།
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P7537
+  publisher: Various
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    02347b5430a14cdb81ebc4d066c6cc9b:
+      title: ༄༅།་།སྐྱེ་དགུའི་བདག་པོ་ལ་རིགས་ལམ་གསལ་བྱེད་བཞུགས་སོ།་།
+      volume_number: 1
+      base_file: UT22314_001_0001.txt
+      reference: http://purl.bdrc.io/resource/VL86F49DCDDFEB484E
+      image_group: null
+      quality: null
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW22314
+  - http://purl.bdrc.io/resource/W22314
+created_at: '2021-12-22T11:08:20.254816'
+last_modified_at: '2021-12-22T11:08:20.254823'
